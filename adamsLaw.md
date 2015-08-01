@@ -1,4 +1,4 @@
-# Adam's Law #
+# **Adam's Law** #
 
 ## Chapter 1 - Waking ##
 
@@ -42,7 +42,7 @@ He gargled and expelled the milky rinse into the sink, briefly hearing "**limite
 
 The M.A. spoke from the mirror: "{Alena Johnsen, 28, shortest edge three hops, public image access token available, single, studied graphic design at RISD} is scheduled for a waiting shift at {Stella's Diner} from minus 2 hours until plus 3.5 hours." 
 
-"Route, Emma. Reroute to Stella's Diner. Reservation, Emma. Fried egg-substitute with 2 cloned beef patties." Adam smiled at the thought of the smell of Stella's  patties. "And a coffee."
+"Route, Emma. Reroute to Stella's Diner. Reservation, Emma. Fried egg-substitute with 2 cloned beef patties." Adam smiled at the thought of the smell of Stella's patties. "And a coffee."
 
 The interior lighting of the cabin morphed into pulsing blue hues as the M.A. calculated local and regional routing. He went back to his corder, flicked to the foto-app and requested a token for Alena's public albums.
 
@@ -57,3 +57,31 @@ The interior lighting of the cabin morphed into pulsing blue hues as the M.A. ca
 "Goodbye Adam, *adamdamamm*," said the countdown timer.
 
 Adam reached for his cup and put it underneath the soylent dispenser. The milkshake-like protein drink filled the cup slowly. 19.1 minutes, 19.0 minutes, 18.9 minutes... He closed his eyes and slurped the chalky green drink.
+
+## Chapter 2 - Making Waves
+
+His workstation screen flashed a message: "Pushing commit 37dasd311f3hdg to local branch asdfasdf. Autofuzzing... ... ... ... Done. Results: Innovation factor: 12.3x. LOC factor: 3.9x. All code globally compliant. Would you like to make a pull-request against master?"
+
+Adam smiled and thought for a moment, as he always did when sharing his code. He made a screenshot, as he had never managed any innovation factor above 2x. Innovation factor 12x. He was sure to piss everyone off with these changes. The code changes broke every single API in use by the routing system and monkey patched the old requests. The last two months of work done in secret, a gambit on the part of his manager using a stolen piece of mil-tech - an evolutionary algorithm based on code mutation originally intended to find code vulns. 
+
+The old requests would continue to work, but just take double the number of cycles - making everyone else's code slower. Management will love it - because they only care about performance, but as soon as he makes the pull-request he had better high-tail it out of the office.
+
+He looked to the only decoration his cubicle, which was a graphic of a chainsaw with a simple text beneath it: "Occam's Chainsaw", and abruptly PM'd the team leader: 
+
+- ADAM203: "Ready to make the pull-request you asked for."
+- TL_BLU: "Rlly? How many cycles did you shave off?"
+- ADAM203: "At least 7 with an LOC of 3.9x." [screenshot.png]
+- TL_BLU: "Holy fucking $$$$$$$hit!"
+- ADAM203:  "Not feeling so well. Would you sign off my extended weekend leave of absence." [leave.md]
+- TL_BLU: "Friday til Wednesday?"
+- ADAM203: "Yeah..."
+- TL_BLU: Well, ok. Here you go. Don't forget the doctor's cert like last time." [leave_approved.md]
+- ADAM203: "Yeah sorry about that. This time I'll ask him to send it directly to you."
+- TL_BLU: "Do that. Have a nice weekend."
+
+He opened his employee page and changed his profile picture to the screenshot and uploaded the signed leave notice. Before he clicked the submit button, however, he changed screens and pushed the button to make the pull request. While his system transferred the code to the Continuous Integration servers, he stood up and put on his jacket. As soon as it finished, he leaned back to the keyboard and changed screens back to his employee page. He clicked submit and then logout.
+
+The screen commanded him: "Please remove your corder from its cradle." 
+
+Adam removed his corder from its dock, hibernating his workstation and unlocking his device. The corporate app flashed on the screen. "Please document your personal SCRUM." It switched to camera mode, and he held it in front of the screen. As soon as it acquired the geometry of the screen, it snapped a picture of the dozens of physical yellow, pink and light-blue post-it notes with to-do's attached to the transparent piece of glass, updating his calender with to-do's.
+
