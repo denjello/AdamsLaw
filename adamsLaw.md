@@ -1,6 +1,6 @@
 # Adam's Law #
 
-## Chapter 1 ##
+## Chapter 1 - Waking ##
 
 "Hello Adam? Hello Adam? *adamdamamm*?" whispered the disembodied voice of his Mobility Assistant as he juddered awake. In the cabin of his living pod, the sound of the voice always appeared to be coming from directly in front of him, regardless of which direction he was facing, which made it so unsettling to be  wakened by a disembodied yet familiar voice. Whether left, right, up, down or even out of the artificial windows, the ghost of a voice followed his gaze. In this case, the M.A.'s  voice seemed to emanate from an invisible point between his prone body and the artificial skylight. 
 
