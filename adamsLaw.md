@@ -60,28 +60,44 @@ Adam reached for his cup and put it underneath the soylent dispenser. The milksh
 
 ## Chapter 2 - Making Waves
 
-His workstation screen flashed a message: "Pushing commit 37dasd311f3hdg to local branch asdfasdf. Autofuzzing... ... ... ... Done. Results: Innovation factor: 12.3x. LOC factor: 3.9x. All code globally compliant. Would you like to make a pull-request against master?"
+His workstation's screen flashed a message: 
 
-Adam smiled and thought for a moment, as he always did when sharing his code. He made a screenshot, as he had never managed any innovation factor above 2x. Innovation factor 12x. He was sure to piss everyone off with these changes. The code changes broke every single API in use by the routing system and monkey patched the old requests. The last two months of work done in secret, a gambit on the part of his manager using a stolen piece of mil-tech - an evolutionary algorithm based on code mutation originally intended to find code vulns. 
+"Pushing commit c920ee53ebd05f2a7163104297b3686ada5f7475 to local branch asdfasdf. Postcommit hook fuzzr initializing. Autofuzzing. ...  ... ... Done. Postcommit hook rebase-fuzzd. Rebase initializing. Postcommit hook SCA initializing. Running Standard Corporate Analysis on diff. ... ... ... ... ... ... ... Results: 
 
-The old requests would continue to work, but just take double the number of cycles - making everyone else's code slower. Management will love it - because they only care about performance, but as soon as he makes the pull-request he had better high-tail it out of the office.
+- Innovation factor: 12.3x. 
+- LOC factor: 3.9x. 
+- Cycle count: 21. 
+- Style: Perfect. 
+- All code globally compliant. 
 
-He looked to the only decoration his cubicle, which was a graphic of a chainsaw with a simple text beneath it: "Occam's Chainsaw", and abruptly PM'd the team leader: 
+Would you like to make a pull-request against master?
+[CANCEL] **[YES]**"
+
+Adam smiled and reflected for a moment, as he always did when publishing his code. He made a screenshot of his new "high score". With an innovation factor of 12x he was sure to piss off every single other developer with these changes, which broke not only the API's, but also internal methods and indeed the entire structure of the code base developed over the past decade. If he had not monkey patched all of the old internal methods, he probably would have gotten an LOC bonus of 5x or more. Something for next week.
+
+The last two months of work had been done in secret, in a separate office. It was a gambit on the part of his manager using a leaked research paper describing a piece of mil-tech - an evolutionary algorithm based on code mutation originally intended to find code vulnerabilities. Using the paper as a blueprint, Adam wrote a new fuzzer that not only found vulns, but streamlined code and was able to correct mistakes made between the screen and the chair.
+
+The old-style API requests would continue to work, but just take double the number of cycles - making everyone else's code slower. Management was sure to love it - not only because they care about performance, but also because his fuzzer rationalizes at least 10 high-ranking devs out of their jobs. As soon as he makes the pull-request he had better high-tail it out of the office.
+
+He looked to the only decoration his cubicle, which was a graphic of a chainsaw with a simple text beneath it: "Occam's Chainsaw", and abruptly PM'd his team leader: 
 
 - ADAM203: "Ready to make the pull-request you asked for."
 - TL_BLU: "Rlly? How many cycles did you shave off?"
 - ADAM203: "At least 7 with an LOC of 3.9x." [screenshot.png]
-- TL_BLU: "Holy fucking $$$$$$$hit!"
-- ADAM203:  "Not feeling so well. Would you sign off my extended weekend leave of absence." [leave.md]
+- TL_BLU: "Holy fucking $$$$$$$hit! Is that an innovation factor of 12.3x???"
+- ADAM203:  "Yeah, we did it. But hey, I'm not feeling so well. Would you sign off my extended weekend leave of absence." [leave.md]
 - TL_BLU: "Friday til Wednesday?"
 - ADAM203: "Yeah..."
 - TL_BLU: Well, ok. Here you go. Don't forget the doctor's cert like last time." [leave_approved.md]
 - ADAM203: "Yeah sorry about that. This time I'll ask him to send it directly to you."
 - TL_BLU: "Do that. Have a nice weekend."
 
-He opened his employee page and changed his profile picture to the screenshot and uploaded the signed leave notice. Before he clicked the submit button, however, he changed screens and pushed the button to make the pull request. While his system transferred the code to the Continuous Integration servers, he stood up and put on his jacket. As soon as it finished, he leaned back to the keyboard and changed screens back to his employee page. He clicked submit and then logout.
+He opened his employee page and changed his profile picture to the screenshot and uploaded the signed leave notice. Before he clicked the submit button, however, he changed screens and pushed the button to make the pull request. 
+
+**[YES]** 
+
+Adam watched as the loading icon turned around itself, over and over. "20314 Files changed." A pop-up appeared on the screen: "This pull-request can be merged. Merge? **[YES]** **[NO]**" He tapped yes, stood up and put on his jacket. Leaning over the chair to the keyboard, he changed screens back to his employee page. He tapped **[SUBMIT]** and then the logout icon.
 
 The screen commanded him: "Please remove your corder from its cradle." 
 
 Adam removed his corder from its dock, hibernating his workstation and unlocking his device. The corporate app flashed on the screen. "Please document your personal SCRUM." It switched to camera mode, and he held it in front of the screen. As soon as it acquired the geometry of the screen, it snapped a picture of the dozens of physical yellow, pink and light-blue post-it notes with to-do's attached to the transparent piece of glass, updating his calender with to-do's.
-
