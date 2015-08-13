@@ -77,7 +77,7 @@ Adam smiled and reflected for a moment, as he always did when publishing his cod
 
 The last two months of work had been done in secret, in a separate office. It was a gambit on the part of his manager using a leaked research paper describing a piece of mil-tech - an evolutionary algorithm based on code mutation originally intended to find code vulnerabilities. Using the paper as a blueprint, Adam wrote a new fuzzer that not only found vulns, but streamlined code and was able to correct mistakes made between the screen and the chair.
 
-The old-style API requests would continue to work, but just take double the number of cycles - making everyone else's code slower. Management was sure to love it - not only because they care about performance, but also because his fuzzer rationalizes at least 10 high-ranking devs out of their jobs. As soon as he makes the pull-request he had better high-tail it out of the office.
+The old-style API requests would continue to work, but just take double the number of cycles - making every human's code slower. Management was sure to love it - not only because they care about performance, but also because his fuzzer rationalizes at least 10 high-ranking devs out of their jobs. As soon as he makes the pull-request he had better high-tail it out of the office.
 
 He looked to the only decoration his cubicle, which was a graphic of a chainsaw with a simple text beneath it: "Occam's Chainsaw", and abruptly PM'd his team leader: 
 
